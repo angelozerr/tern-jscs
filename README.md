@@ -1,0 +1,2 @@
+# tern-jscs
+Tern JSCS
