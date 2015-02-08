@@ -1,3 +1,3 @@
 # tern-jscs
 
-A Tern plugin linter with [JSCS](https://github.com/jscs-dev/node-jscs)
+Tern Plugin to validate JS files with [JSCS](https://github.com/jscs-dev/node-jscs)
